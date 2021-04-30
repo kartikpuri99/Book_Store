@@ -1,8 +1,11 @@
 # Book Store
-It is book store website made using MERN stack.It allows person to look for different books from different the book catalog and can order them.For payment PayPal API is used and custom authentication using jwt token is done.
+It is book store website made using MERN stack.It allows person to look for different books from different the book catalog and can order them.For payment PayPal API is used and custom authentication using jwt token is done.Website also contains a admin section for the admin of the website who can create,delete,update new products as well as can make other users admin as well.
 
-![alt text](https://github.com/kartikpuri99/portfolio_site/blob/master/src/assests/demo1.JPG "Image 1")
-![alt text](https://github.com/kartikpuri99/portfolio_site/blob/master/src/assests/demo2.JPG "Image 2")
+<br/>
+
+![alt text](https://github.com/kartikpuri99/Book_Store/blob/master/frontend/public/images/demo1.JPG "Image 1")
+![alt text](https://github.com/kartikpuri99/Book_Store/blob/master/frontend/public/images/demo2.JPG "Image 2")
+![alt text](https://github.com/kartikpuri99/Book_Store/blob/master/frontend/public/images/demo3.JPG "Image 3")
 
 
 # Tech Stack
